@@ -1,0 +1,9 @@
+A simple implementation of a Mandelbrot Set generator tied to a custom Google map.
+
+You *must* replace %Your-API-Key% in custommap.html with your own Google API key with 'Google Maps API v3' access.
+
+To run, download all the files to a local directory. 
+then 'Python mandserver.py'
+and browse to custommap.html.
+
+For more details, visit http://www.socouldanyone.com/2013/04/googlemap-delbrot.html
